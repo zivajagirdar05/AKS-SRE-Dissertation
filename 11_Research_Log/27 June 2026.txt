@@ -1,0 +1,10 @@
+Date: 27 June 2026
+
+Activity: Began literature review by studying the Google SRE Book.
+
+Key Learnings:
+
+Reliability is an engineering discipline.
+SRE focuses on automation and reducing operational toil.
+SLIs, SLOs, and Error Budgets are core concepts.
+Observability is essential for maintaining reliable systems.
